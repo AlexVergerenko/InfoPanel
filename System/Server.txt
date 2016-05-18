@@ -14,6 +14,26 @@
   Forestry
   Botany
   ExtraBees
+  ExtraTrees
+  Genetics
+  Railcraft
+  TwilightForest
+  Treecapitator
+  NotEnoughItems
+  CarpentersBlocks
+  Chisel
+  Waila
+  EnderIO
+  Extra Utilities
+  Nuclear Control 2
+  MachineMuse's Modular Powersuits
+  OpenComputers
+  OpenComponents
+  OC Glasses
+  OpenPeripheral
+  Geologica 
+  Chemica 
+  
   
   
   
