@@ -1,32 +1,39 @@
-                      Команды сервера
+   <color>0x008000</color>                    Команды сервера<color>0xFFFFFF</color>
   
   Выделение территории:
   
-  //hpos1 - первая точка
-  //hpos2 - вторая точка
-  //expand - увеличение территории
+  <color>0xffcc00</color>//hpos1<color>0xFFFFFF</color> - первая точка
+  <color>0xffcc00</color>//hpos2<color>0xFFFFFF</color> - вторая точка
+  <color>0xffcc00</color>//expand<color>0xFFFFFF</color> - увеличение территории
   
   Приват территории:
-  /rg claim [имя_региона] - Присвоение региона
-  /rg delete [имя_региона] - Удаление региона
-  /rg info [имя_региона] - Информация о регионе
-  /rg list - Список Ваших регионов
-  /rg flag [имя_региона] [значение_флага] - Высталение флага
+  <color>0xffcc00</color>/rg claim [имя_региона]<color>0xFFFFFF</color> - Присвоение региона
+  <color>0xffcc00</color>/rg delete [имя_региона]<color>0xFFFFFF</color> - Удаление региона
+  <color>0xffcc00</color>/rg info [имя_региона]<color>0xFFFFFF</color> - Информация о регионе
+  <color>0xffcc00</color>/rg list<color>0xFFFFFF</color> - Список Ваших регионов
+  <color>0xffcc00</color>/rg flag [имя_региона] [значение_флага]<color>0xFFFFFF</color> - Высталение флага
   
   Команды для региона - хозяева и жители
-  /rg addmember [имя_региона] [имя_игрока] - Добавление в регион
-  /rg removemember [имя_региона] [имя_игрока] - Удаление из региона
+  <color>0xffcc00</color>/rg addmember [имя_региона] [имя_игрока]<color>0xFFFFFF</color> - Добавление в регион
+  <color>0xffcc00</color>/rg removemember [имя_региона] [имя_игрока]<color>0xFFFFFF</color> - Удаление из региона
   
   Команды:
-  /sethome - Установка точки дома
-  /home - Телепортация на точку дома
-  /spawn - Телепортация на спавн
-  /warp - Список магазинов сервера
-  /ignore - Добавляет человека в черный список
-  /m [имя_игрока] - Личное сообщение игроку
-  /tpa [имя_игрока] - Заспрос на телепорт к игроку
-  /money - Проверка количества коинов
-  /money pay [имя_игрока] [кол-вл денег] - Передача коинов другому игроку
+  <color>0xffcc00</color>/sethome<color>0xFFFFFF</color> - Установка точки дома
+  <color>0xffcc00</color>/home<color>0xFFFFFF</color> - Телепортация на точку дома
+  <color>0xffcc00</color>/spawn<color>0xFFFFFF</color> - Телепортация на спавн
+  <color>0xffcc00</color>/warp<color>0xFFFFFF</color> - Список магазинов сервера
+  <color>0xffcc00</color>/ignore<color>0xFFFFFF</color> - Добавляет человека в черный список
+  <color>0xffcc00</color>/m [имя_игрока]<color>0xFFFFFF</color> - Личное сообщение игроку
+  <color>0xffcc00</color>/tpa [имя_игрока]<color>0xFFFFFF</color> - Заспрос на телепорт к игроку
+  <color>0xffcc00</color>/money<color>0xFFFFFF</color> - Проверка количества коинов
+  <color>0xffcc00</color>/money pay [имя_игрока] [кол-вл денег]<color>0xFFFFFF</color> - Передача коинов другому игроку
+  
+  Доступные флаги:
+  <color>0xffcc00</color>use<color>0xFFFFFF</color> - Флаг использования предметов
+  <color>0xffcc00</color>mob-spawning<color>0xFFFFFF</color> - Флаг спауна мобов
+  <color>0xffcc00</color>greeting<color>0xFFFFFF</color> - Флаг приветсвия при входе в регион 
+  <color>0xffcc00</color>farewell<color>0xFFFFFF</color> - Флаг фраза при выходе из региона
+  <color>0xffcc00</color>potion-splash<color>0xFFFFFF</color> - Флаг эффекта взрывных зелий
   
   
   
