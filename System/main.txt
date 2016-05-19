@@ -1,4 +1,5 @@
 <color>0xf5ff85</color>      Добро пожаловать на сервер <color>0xFFFFFF</color> <color>0xffa500</color>LightNEXT<color>0xFFFFFF</color>
+<image>tigr.pic</image>
 <color>0x00bfff</color>                    
             Мы рады Вас видеть на нашем техническом сервере.
  Рекомендуем Вас внимательно ознакомиться с данной информационной панелью
