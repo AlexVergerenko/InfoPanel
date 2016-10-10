@@ -8,31 +8,23 @@
   Размер Silent Hill (Карьерный мир) - 1500 х 1500
   <color>0xFFFFFF</color>
   Модификации:
+  GalactiCraft
+  GalaxySpace
   IndustrialCraft 2 Experimental
   Applied Energistics 2
+  AdvansedSolarPanel
   BiomesOPlenty
-  Forestry
-  Botany
-  ExtraBees
-  ExtraTrees
-  Genetics
   Railcraft
-  TwilightForest
   Treecapitator
   NotEnoughItems
   CarpentersBlocks
   Chisel
-  Waila
   EnderIO
+  OpenBlocks
   Extra Utilities
-  Nuclear Control 2
-  MachineMuse's Modular Powersuits
+  Nuclear Control
   OpenComputers
-  OpenComponents
-  OC Glasses
-  OpenPeripheral
-  Geologica 
-  Chemica 
+  RedLogic
   
   
   
