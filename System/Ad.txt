@@ -1,6 +1,8 @@
-  <color>0xff0000</color>Администраторский состав сервера  <color>0xFFFFFF</color> <color>0xffa500</color>  LightNEXT<color>0xFFFFFF</color>
+  <color>0xff0000</color>Администраторский состав сервера  <color>0xFFFFFF</color> <color>0xffa500</color>  TigerGALAXY<color>0xFFFFFF</color>
               
 <color>0xffa500</color>Medved<color>0xFFFFFF</color> -  <color>0xff0000</color>главный администратор<color>0xFFFFFF</color>
-<color>0xffa500</color>Katharina<color>0xFFFFFF</color>-  <color>0xff0000</color>администратор<color>0xFFFFFF</color>
-<color>0xffa500</color>VOMBLAND<color>0xFFFFFF</color>- <color>0x008000</color>модератор<color>0xFFFFFF</color>
-<color>0xffa500</color>COBA<color>0xFFFFFF</color> - <color>0x008000</color>модератор<color>0xFFFFFF</color>
+<color>0xffa500</color>Waxter<color>0xFFFFFF</color>-  <color>0xff0000</color>администратор<color>0xFFFFFF</color>
+<color>0xffa500</color>Lord99992<color>0xFFFFFF</color>- <color>0x008000</color>администратор<color>0xFFFFFF</color>
+<color>0xffa500</color>VOMBLAND<color>0xFFFFFF</color> - <color>0x008000</color>модератор<color>0xFFFFFF</color>
+<color>0xffa500</color>AvatarGood<color>0xFFFFFF</color> - <color>0x008000</color>модератор<color>0xFFFFFF</color>
+<color>0xffa500</color>sHEbeLIEve<color>0xFFFFFF</color> - <color>0x008000</color>модератор<color>0xFFFFFF</color>
