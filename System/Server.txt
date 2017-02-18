@@ -1,31 +1,45 @@
-          <color>0x008000</color>Описание сервера TigerGALAXY<color>0xFFFFFF</color>
+          <color>0x008000</color>Описание сервера LightNEXT<color>0xFFFFFF</color>
   <color>0xffcc00</color>
   Версия сервера - 1.7.10
   Сервер - PVE (только в основном мире)
   Размер приватов в основном мире - 5шт по 100к блоков
   Размер привата в карьерном мире - 64 блока
   Размер основного мира - 3000 х 3000
-  Размер Silent Hill (Карьерный мир) - 1500 х 1500
+  Размер Silent Hill (Карьерный мир) - 2000 х 2000
   <color>0xFFFFFF</color>
   Модификации:
-  GalactiCraft
-  GalaxySpace
-  IndustrialCraft 2 Experimental
-  Applied Energistics 2
-  AdvansedSolarPanel
-  BiomesOPlenty
-  Railcraft
-  Treecapitator
-  NotEnoughItems
-  CarpentersBlocks
-  Chisel
-  EnderIO
-  OpenBlocks
-  Extra Utilities
-  Nuclear Control
-  OpenComputers
-  RedLogic
   
+  IndustrialCraft 2 Experimental
+  IndustrialCraft 2 Combo Armors
+  IndustrialCraft 2 Nuclear Control 2
+  Applied Energistics 2
+  ExtraCells
+  Thermal Expansion
+  Thermal Dynamics
+  Thermal Foundation
+  BigReaktors
+  Immersive Engineering
+  Ender IO
+  Extra Utilities
+  RailCraft
+  Forestry
+  Binnie mods
+  OpenBlock
+  OpenComputers
+  Electrical Age
+  RedstoneArsenal
+  Chisel
+  Architecture Craft
+  Decocraft
+  BiomesOPlenty
+  Twiling Forest
+  Waila
+  NotEnoughItems
+  Treecapitator
+  ArmorStatusHUD
+  DynamicLights
+  TabbyChat
+  VoxelMap
   
   
   
